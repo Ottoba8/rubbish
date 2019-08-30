@@ -7,5 +7,7 @@ int main()
 
     cout << "Привет мир!" << endl;
 
+    cout << "Тестирую создание 1-ой ветки в github" << endl;
+
     return 0;
 }
